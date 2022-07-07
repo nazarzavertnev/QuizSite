@@ -1,0 +1,22 @@
+.header {
+    margin: 0;
+    background-color: #454545;
+    color: green;
+}
+
+body {
+    font-family: Arial;
+    line-height: 1.5;
+    font-size: 25px;
+}
+
+/*
+@media (min-width: 992px) {
+body {
+    font-size: 25px; }
+}
+
+@media (min-width: 400px) {
+body {
+    font-size: 15px; }
+}*/
